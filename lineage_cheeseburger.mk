@@ -27,7 +27,7 @@ PRODUCT_NAME := lineage_cheeseburger
 PRODUCT_DEVICE := cheeseburger
 PRODUCT_MANUFACTURER := OnePlus
 PRODUCT_BRAND := OnePlus
-PRODUCT_MODEL := ONEPLUS A5000
+PRODUCT_MODEL := 5
 
 PRODUCT_GMS_CLIENTID_BASE := android-oneplus
 
